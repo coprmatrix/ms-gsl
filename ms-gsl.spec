@@ -29,7 +29,7 @@ BuildRequires:  gcc-c++
 BuildRequires:  pkgconfig(gtest)
 BuildArch:      noarch
 
-Patch0: fix-gcc-build.patch
+#Patch0: fix-gcc-build.patch
 
 %description
 The Guidelines Support Library (GSL) contains functions and types that are suggested for use by the C++ Core Guidelines maintained by the Standard C++ Foundation. This repo contains Microsoft's implementation of GSL.
